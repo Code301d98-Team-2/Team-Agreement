@@ -147,4 +147,19 @@ Describe at least:
 
     - How will you communicate that it’s time to merge?
 
-        - Through Slack and Remo.
+What components of your project will live on GitHub?
+- All components will live on Github with the exception of API KEYS or any other Passwords for the application 
+How will you share the repository with your teammates?
+- All team members will be part of an organization that will be allowed access to this repository. 
+What is your Git flow?
+- 
+Will you be using a PR review workflow? If so, consider:
+- The person merging their code and any other person who may be modifying the same document 
+How many people must review a PR?
+- Minimum 2 people
+Who merges PRs?
+- The team leader will be responsible for merging PRs
+How often will you merge?
+- Mergin will be done as soon as there is a PR. One this is done all team members will be encouraged to pull from main
+How will you communicate that it’s time to merge?
+- Through slack and through Remo.
